@@ -155,21 +155,6 @@ Production-grade containerized web app deployment on Amazon Elastic Kubernetes S
 
 ---
 
-## 🎯 2025 Roadmap
-
-```
-[✅] CCNA — Networking foundations locked in
-[✅] EHE Certification — Ethical hacking essentials
-[✅] Cloud Engineering Internship @ CoreXtech
-[✅] Built VulnScan — Custom CLI security tool
-[✅] Deployed apps on Amazon EKS
-[ ] AWS Cloud Practitioner (CLF-C02)       ← In progress
-[ ] CompTIA Security+                       ← Q2 2025
-[ ] AWS Solutions Architect (SAA-C03)       ← Q3 2025
-[ ] ML-based Intrusion Detection System     ← Portfolio project
-[ ] DevSecOps CI/CD Pipeline               ← Portfolio project
-```
-
 ---
 
 <div align="center">
