@@ -1,17 +1,17 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║      ██████╗  ██████╗ ██╗     ██╗     █████╗                ║
-║     ██╔════╝ ██╔═══██╗██║     ██║    ██╔══██╗               ║
-║     ██║  ███╗██║   ██║██║     ██║    ███████║               ║
-║     ██║   ██║██║   ██║██║     ██║    ██╔══██║               ║
-║     ╚██████╔╝╚██████╔╝███████╗██║    ██║  ██║               ║
-║      ╚═════╝  ╚═════╝ ╚══════╝╚═╝    ╚═╝  ╚═╝               ║
-║                                                               ║
-║              A K A S H   ·   D E V S E C O P S               ║
-╚═══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                      ║
+║   ██████╗  ██████╗ ██╗     ██╗     █████╗ ██╗  ██╗ █████╗ ███████╗██╗  ██╗        ║
+║  ██╔════╝ ██╔═══██╗██║     ██║    ██╔══██╗██║ ██╔╝██╔══██╗██╔════╝██║  ██║        ║
+║  ██║  ███╗██║   ██║██║     ██║    ███████║█████╔╝ ███████║███████╗███████║        ║
+║  ██║   ██║██║   ██║██║     ██║    ██╔══██║██╔═██╗ ██╔══██║╚════██║██╔══██║        ║
+║  ╚██████╔╝╚██████╔╝███████╗██║    ██║  ██║██║  ██╗██║  ██║███████║██║  ██║        ║
+║   ╚═════╝  ╚═════╝ ╚══════╝╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝        ║
+║                                                                                      ║
+║                        D E V S E C O P S   ·   C L O U D   ·   S E C U R I T Y    ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 # Hey there, I'm Goli Akash 👋
@@ -42,12 +42,12 @@ focus_areas:
   - DevSecOps & CI/CD Automation
   - Kubernetes & Container Security
   - Penetration Testing & Vulnerability Research
-  - AI for Threat Detection (coming soon 🚀)
+  - AI for Threat Detection & MLops (coming soon 🚀)
 
 currently_learning:
-  - AWS Solutions Architect (SAA-C03)
-  - MLOps & AI-powered security systems
-  - Certified Kubernetes Administrator (CKA)
+  - DevSecOps
+  - MLOps
+  - 
 
 fun_fact: "Ranked Top 3% globally on TryHackMe among 3M+ users 🏆"
 ```
@@ -127,7 +127,6 @@ Production-grade containerized web app deployment on Amazon Elastic Kubernetes S
 |-------|--------------|--------|
 | 🌐 | **Cisco Certified Network Associate (CCNA)** | Cisco |
 | 🔐 | **Ethical Hacking Essentials (EHE)** | EC-Council |
-| 🛡️ | **Cybersecurity & Ethical Hacking Bootcamp** | — |
 | 🏛️ | **AICTE Virtual Cybersecurity Internship** | Government of India |
 | 🎯 | **TryHackMe — Top 3% Globally** | TryHackMe (100+ challenges) |
 
@@ -153,9 +152,7 @@ Production-grade containerized web app deployment on Amazon Elastic Kubernetes S
 
 </div>
 
----
 
----
 
 <div align="center">
 
