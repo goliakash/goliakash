@@ -163,6 +163,6 @@ Production-grade containerized web app deployment on Amazon Elastic Kubernetes S
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=goliakash&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
