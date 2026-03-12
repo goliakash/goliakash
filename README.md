@@ -145,11 +145,11 @@ Production-grade containerized web app deployment on Amazon Elastic Kubernetes S
 
 <div align="center">
 
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff)
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goliakash&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goliakash&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=ffffff)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)
+![GitHub Streak](https://streak-stats.demolab.com?user=goliakash&theme=dark&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)
 
 </div>
 
