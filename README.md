@@ -16,7 +16,7 @@
 
 # Hey there, I'm Goli Akash 👋
 
-### ☁️ Cloud Engineer · 🔐 Security Researcher · ⚙️ DevSecOps Enthusiast
+### ☁️ Cloud Engineer · ⚙️ DevSecOps Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/goli-akash-02382b245)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://www.goliakash.me/)
