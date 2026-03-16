@@ -1,59 +1,107 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                      ║
-║   ██████╗  ██████╗ ██╗     ██╗     █████╗ ██╗  ██╗ █████╗ ███████╗██╗  ██╗        ║
-║  ██╔════╝ ██╔═══██╗██║     ██║    ██╔══██╗██║ ██╔╝██╔══██╗██╔════╝██║  ██║        ║
-║  ██║  ███╗██║   ██║██║     ██║    ███████║█████╔╝ ███████║███████╗███████║        ║
-║  ██║   ██║██║   ██║██║     ██║    ██╔══██║██╔═██╗ ██╔══██║╚════██║██╔══██║        ║
-║  ╚██████╔╝╚██████╔╝███████╗██║    ██║  ██║██║  ██╗██║  ██║███████║██║  ██║        ║
-║   ╚═════╝  ╚═════╝ ╚══════╝╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝        ║
-║                                                                                      ║
-║                        D E V S E C O P S   ·   C L O U D   ·   S E C U R I T Y    ║
-╚══════════════════════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Goli%20Akash&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Engineer%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20DevSecOps&descAlignY=58&descSize=16&descColor=a78bfa" />
 
-# Hey there, I'm Goli Akash 👋
+<br/>
 
-### ☁️ Cloud Engineer · ⚙️ DevSecOps Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Secure+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;DevSecOps+%7C+AWS+%7C+Kubernetes+%7C+Terraform;Top+3%25+on+TryHackMe+%F0%9F%94%90;Always+learning%2C+always+hacking+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/goli-akash-02382b245)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://www.goliakash.me/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goliakash)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goliakash710@gmail.com)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://portfolio.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goliakash710@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23Top_3%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=a78bfa&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧬 Who Am I?
 
-```yaml
-name: Goli Akash
-role: Cloud Engineer & Security Researcher
-education: B.Tech Computer Science @ SR Engineering College (2023–2027)
-location: Telangana, India
-experience: Cloud Engineer Intern @ CoreXtech IT Services Pvt. Ltd.
+> *"Security is not a product — it's a process. And I build that process in the cloud."*
 
-focus_areas:
-  - Cloud Infrastructure (AWS / Azure)
-  - DevSecOps & CI/CD Automation
-  - Kubernetes & Container Security
-  - Penetration Testing & Vulnerability Research
-  - AI for Threat Detection & MLops (coming soon 🚀)
+I'm a **B.Tech Computer Science student** (2023–2027) at SR Engineering College, specializing in the intersection of **cloud infrastructure**, **cybersecurity**, and **DevSecOps automation**. I've interned as a Cloud Engineer, built real-world security tools, and consistently challenge myself on platforms like TryHackMe — where I rank in the **Top 3% globally** among 3M+ users.
 
-currently_learning:
-  - DevSecOps
-  - MLOps
-  - 
+My work lives at the crossroads of **building** and **breaking** — deploying production-grade cloud systems while understanding how adversaries think.
 
-fun_fact: "Ranked Top 3% globally on TryHackMe among 3M+ users 🏆"
-```
+- 🎯 Target: **AWS/Cloud Security Engineer · DevSecOps · AI for Threat Detection**
+- 🌱 Currently studying: **AWS SAA-C03 · MLOps · Kubernetes Security**
+- 🏠 Based in: **Telangana, India**
+- 📬 Reach me at: **goliakash710@gmail.com**
 
 ---
 
-## ⚔️ Arsenal
+## 💼 Experience
+
+<table>
+<tr>
+<td width="60px" align="center">☁️</td>
+<td>
+
+**Cloud Engineer Intern** — *CoreXtech IT Services Pvt. Ltd.* &nbsp;`Jul 2025 – Sep 2025`
+
+- Deployed scalable **AWS & Azure** infrastructure using **Terraform** and **CloudFormation**
+- Built **CI/CD pipelines** with Jenkins and GitHub Actions for automated deployments
+- Monitored and optimized cloud resources via **CloudWatch** and **Azure Monitor**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<details open>
+<summary><b>🔍 VulnScan — CLI Vulnerability Scanner</b> &nbsp;<code>Python · Asyncio · Multithreading · Linux</code></summary>
+
+<br/>
+
+A high-performance, custom-built network vulnerability scanner built from scratch.
+
+| Feature | Details |
+|--------|---------|
+| ⚡ Speed | Concurrent scanning via **Asyncio + Multithreading** |
+| 🔎 Recon | Port scanning, **service banner grabbing**, OS fingerprinting |
+| 🛡️ Intel | **CVE-based vulnerability mapping** for all detected services |
+| 🎨 Output | Colorized, structured terminal output with real-time progress |
+
+```bash
+$ python vulnscan.py --target 192.168.1.0/24 --ports 1-1024
+[*] Starting concurrent scan on 254 hosts...
+[+] 192.168.1.105:22  → OpenSSH 7.4   → ⚠  CVE-2023-38408 detected
+[+] 192.168.1.110:80  → Apache 2.4.49 → ⚠  CVE-2021-41773 detected
+[✓] Scan complete. Report saved to ./reports/scan_20250901.json
+```
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🎮 2048 Game on Amazon EKS</b> &nbsp;<code>AWS · Docker · Kubernetes · ECR · EKS</code></summary>
+
+<br/>
+
+End-to-end containerized web application deployment on Amazon Elastic Kubernetes Service.
+
+| Step | What I Did |
+|------|-----------|
+| 🐳 Containerize | Built Docker image and pushed to **Amazon ECR** |
+| ☸️ Orchestrate | Provisioned **EKS cluster** with proper IAM roles & node groups |
+| 🌐 Expose | Configured **LoadBalancer** service for public access |
+| 💰 Optimize | Cloud cost monitoring and right-sizing for compute resources |
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -62,6 +110,7 @@ fun_fact: "Ranked Top 3% globally on TryHackMe among 3M+ users 🏆"
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🐳 DevOps & Containers
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -69,73 +118,37 @@ fun_fact: "Ranked Top 3% globally on TryHackMe among 3M+ users 🏆"
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 🔐 Security Tools
+### 🔐 Security & Networking
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00B388?style=for-the-badge&logo=tenable&logoColor=white)
 
 ### 💻 Languages & OS
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🏅 Certifications
 
-### 🔍 VulnScan — CLI Vulnerability Scanner
-> *Python · Asyncio · Multithreading · Linux*
+<div align="center">
 
-A high-performance, custom-built vulnerability scanner for network and service-level security analysis.
+| 🏆 | Certification | Issuer | Focus Area |
+|---|--------------|--------|-----------|
+| 🌐 | **Cisco Certified Network Associate (CCNA)** | Cisco | Networking & Routing |
+| 🔐 | **Ethical Hacking Essentials (EHE)** | EC-Council | Penetration Testing |
+| 🛡️ | **Cybersecurity & Ethical Hacking Bootcamp** | — | Offensive Security |
+| 🏛️ | **AICTE Virtual Cybersecurity Internship** | Govt. of India | Applied Cybersecurity |
+| 🎯 | **TryHackMe — Top 3% Globally** | TryHackMe | 100+ CTF Challenges |
 
-- ⚡ Concurrent port scanning with **Asyncio + Multithreading** for blazing-fast parallel execution
-- 🔎 Service banner grabbing, **OS fingerprinting**, and real-time scan progress
-- 🛡️ **CVE-based vulnerability identification** for all detected services
-- 🎨 Structured, colorized terminal output for clean, readable results
-
-```bash
-$ vulnscan --target 192.168.1.0/24 --ports 1-1024 --output report.json
-[+] Scanning 254 hosts concurrently...
-[!] CVE-2023-XXXX found on 192.168.1.105:22 (OpenSSH 7.4)
-```
-
----
-
-### 🎮 2048 Game on Amazon EKS
-> *AWS · Docker · Kubernetes · ECR · EKS*
-
-Production-grade containerized web app deployment on Amazon Elastic Kubernetes Service.
-
-- 🐳 Built and pushed container images to **Amazon ECR**
-- ☸️ Provisioned and managed **EKS cluster** with proper IAM permissions
-- 🌐 Exposed app via **LoadBalancer service** with cloud cost optimization
-- 📦 Full end-to-end container lifecycle management
-
----
-
-## 📜 Certifications
-
-| Badge | Certification | Issuer |
-|-------|--------------|--------|
-| 🌐 | **Cisco Certified Network Associate (CCNA)** | Cisco |
-| 🔐 | **Ethical Hacking Essentials (EHE)** | EC-Council |
-| 🏛️ | **AICTE Virtual Cybersecurity Internship** | Government of India |
-| 🎯 | **TryHackMe — Top 3% Globally** | TryHackMe (100+ challenges) |
-
----
-
-## 💼 Experience
-
-**Cloud Engineer Intern** @ [CoreXtech IT Services Pvt. Ltd.](https://corextech.com) *(Jul 2025 – Sep 2025)*
-
-> Deployed scalable AWS/Azure infrastructure with Terraform & CloudFormation · Built CI/CD pipelines with Jenkins & GitHub Actions · Monitored cloud resources via CloudWatch & Azure Monitor
+</div>
 
 ---
 
@@ -143,26 +156,66 @@ Production-grade containerized web app deployment on Amazon Elastic Kubernetes S
 
 <div align="center">
 
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goliakash&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goliakash&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=ffffff)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=goliakash&theme=dark&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
+---
 
+## 🗺️ Roadmap & Goals
 
-<div align="center">
+```text
+2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### 💬 Let's Connect & Build Together
+  ✅  CCNA                              Networking fundamentals locked in
+  ✅  EHE (EC-Council)                  Ethical hacking essentials certified
+  ✅  Cloud Engineer Internship         Real-world AWS/Azure infra deployment
+  ✅  VulnScan                          Built custom CLI security scanner
+  ✅  EKS Deployment                    Production app on Kubernetes
 
-*"Security is not a product, but a process."* — Bruce Schneier
+  🔄  AWS Cloud Practitioner            In progress → Target: Q1 2025
+  ⏳  CompTIA Security+                 Target: Q2 2025
+  ⏳  AWS Solutions Architect SAA-C03   Target: Q3 2025
 
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-goliakash710%40gmail.com-D14836?style=for-the-badge)](mailto:goliakash710@gmail.com)
+2026 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ⏳  CKA / CKS                         Kubernetes Administrator & Security
+  ⏳  ML-Based Intrusion Detection      Portfolio: AI for threat detection
+  ⏳  DevSecOps CI/CD Pipeline          Portfolio: Full secure pipeline project
+  ⏳  LLM Security Research             Portfolio: AI security research paper
+```
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=goliakash&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS)
+## 🎮 CTF & Hacking
+
+<div align="center">
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png)](https://tryhackme.com/p/YOUR_THM_USERNAME)
+
+**🏆 Top 3% Globally · 100+ Challenges Completed · 3M+ Users**
+
+*Specialties: Web App Security · Network Exploitation · Linux Privilege Escalation · OSINT*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let's+Build+Something+Secure&fontSize=20&fontColor=a78bfa&fontAlignY=65" />
+
+**Open to opportunities in Cloud Security · DevSecOps · AWS Infrastructure**
+
+*📬 goliakash710@gmail.com*
 
 </div>
