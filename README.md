@@ -130,7 +130,6 @@ End-to-end containerized web application deployment on Amazon Elastic Kubernetes
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 </div>
 
@@ -145,8 +144,8 @@ End-to-end containerized web application deployment on Amazon Elastic Kubernetes
 | 🌐 | **Cisco Certified Network Associate (CCNA)** | Cisco | Networking & Routing |
 | 🔐 | **Ethical Hacking Essentials (EHE)** | EC-Council | Penetration Testing |
 | 🛡️ | **Cybersecurity & Ethical Hacking Bootcamp** | — | Offensive Security |
-| 🏛️ | **AICTE Virtual Cybersecurity Internship** | Govt. of India | Applied Cybersecurity |
-| 🎯 | **TryHackMe — Top 3% Globally** | TryHackMe | 100+ CTF Challenges |
+| 🏛️ | **AICTE Virtual Cybersecurity Internship** | Govt. of India 
+| 🎯 | **TryHackMe — Top 3% Globally** | TryHackMe 
 
 </div>
 
@@ -156,8 +155,8 @@ End-to-end containerized web application deployment on Amazon Elastic Kubernetes
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=goliakash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goliakash&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
@@ -165,46 +164,7 @@ End-to-end containerized web application deployment on Amazon Elastic Kubernetes
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🗺️ Roadmap & Goals
-
-```text
-2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  ✅  CCNA                              Networking fundamentals locked in
-  ✅  EHE (EC-Council)                  Ethical hacking essentials certified
-  ✅  Cloud Engineer Internship         Real-world AWS/Azure infra deployment
-  ✅  VulnScan                          Built custom CLI security scanner
-  ✅  EKS Deployment                    Production app on Kubernetes
-
-  🔄  AWS Cloud Practitioner            In progress → Target: Q1 2025
-  ⏳  CompTIA Security+                 Target: Q2 2025
-  ⏳  AWS Solutions Architect SAA-C03   Target: Q3 2025
-
-2026 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  ⏳  CKA / CKS                         Kubernetes Administrator & Security
-  ⏳  ML-Based Intrusion Detection      Portfolio: AI for threat detection
-  ⏳  DevSecOps CI/CD Pipeline          Portfolio: Full secure pipeline project
-  ⏳  LLM Security Research             Portfolio: AI security research paper
-```
-
----
-
-## 🎮 CTF & Hacking
-
-<div align="center">
-
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png)](https://tryhackme.com/p/YOUR_THM_USERNAME)
-
-**🏆 Top 3% Globally · 100+ Challenges Completed · 3M+ Users**
-
-*Specialties: Web App Security · Network Exploitation · Linux Privilege Escalation · OSINT*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=goliakash&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
