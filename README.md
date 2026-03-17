@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goli-akash-02382b245)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://goliakash.me)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goliakash710@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23Top_3%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com)
 
 <br/>
 
