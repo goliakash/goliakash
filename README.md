@@ -27,7 +27,7 @@
 # goli_akash.yaml
 personal:
   name: "Goli Akash"
-  role: "Cloud Engineer & Security Researcher"
+  role: "Cloud & DevSecOps Engineer"
   location: "Telangana, India 🇮🇳"
   email: "goliakash710@gmail.com"
   portfolio: "https://goliakash.me"
@@ -43,7 +43,6 @@ experience:
   - title: "Cloud Engineer Intern"
     company: "CoreXtech IT Services Pvt. Ltd."
     period: "Jul 2025 – Sep 2025"
-    stack: ["AWS", "Azure", "Terraform", "Jenkins", "GitHub Actions"]
 
 focus_areas:
   - "☁️  Cloud Infrastructure & DevSecOps"
@@ -53,16 +52,8 @@ focus_areas:
   - "🐳  Kubernetes & Container Security"
 
 currently_learning:
-  - "AWS Solutions Architect (SAA-C03)"
-  - "Certified Kubernetes Administrator (CKA)"
   - "MLOps & AI Security Systems"
   - "Go for DevOps tooling"
-
-achievements:
-  tryhackme_rank: "Top 3% globally 🏆 (3M+ users)"
-  challenges_completed: "100+"
-  internships: 1
-  certifications: ["CCNA", "EHE", "AICTE Cybersecurity"]
 
 motto: "Security is not a product — it's a process. And I build that process in the cloud. ☁️🔐"
 ```
