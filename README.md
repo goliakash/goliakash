@@ -124,34 +124,6 @@ End-to-end containerized web application deployment on Amazon Elastic Kubernetes
 
 <br/>
 
-<details open>
-<summary><b>🐍 Secure REST API with FastAPI</b> &nbsp;<code>Python · FastAPI · JWT · PostgreSQL · Docker</code></summary>
-
-<br/>
-
-A production-ready, security-hardened backend API built with FastAPI and Python best practices.
-
-| Feature | Details |
-|--------|---------|
-| 🔑 Auth | **JWT-based authentication** with token refresh flow |
-| 🗄️ Database | **PostgreSQL** with async SQLAlchemy ORM |
-| 🛡️ Security | Input validation via **Pydantic**, SQL injection protection |
-| 📦 Deploy | Containerized with **Docker**, auto-docs via Swagger UI |
-| 🚀 Performance | Async endpoints for high-throughput request handling |
-
-```python
-@app.post("/api/v1/scan", response_model=ScanResult)
-async def trigger_scan(
-    target: ScanRequest,
-    current_user: User = Depends(get_current_user)
-):
-    """Authenticated endpoint to trigger a vulnerability scan."""
-    result = await scanner.run(target.ip, target.ports)
-    return ScanResult(findings=result.cves, risk_score=result.score)
-```
-
-</details>
-
 ---
 
 ## 🛠️ Tech Stack
