@@ -4,12 +4,12 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Secure+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;DevSecOps+%7C+AWS+%7C+Kubernetes+%7C+Terraform;Always+learning%2C+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Secure+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;DevSecOps+%7C+AWS+%7C+Kubernetes+%7C+Terraform;Always+learning%2C+)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/goli-akash-02382b245)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](www.goliakash.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goli-akash-02382b245)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://goliakash.me)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goliakash710@gmail.com)
 
 <br/>
@@ -98,7 +98,6 @@ End-to-end containerized web application deployment on Amazon Elastic Kubernetes
 
 </details>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -106,10 +105,9 @@ End-to-end containerized web application deployment on Amazon Elastic Kubernetes
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 ### 🐳 DevOps & Containers
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -124,16 +122,18 @@ End-to-end containerized web application deployment on Amazon Elastic Kubernetes
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
-### 💻 Languages & OS
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ### 🐍 Backend Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 💻 Languages & OS
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 </div>
 
@@ -148,8 +148,7 @@ End-to-end containerized web application deployment on Amazon Elastic Kubernetes
 | 🌐 | **Cisco Certified Network Associate (CCNA)** | Cisco | Networking & Routing |
 | 🔐 | **Ethical Hacking Essentials (EHE)** | EC-Council | Penetration Testing |
 | 🛡️ | **Cybersecurity & Ethical Hacking Bootcamp** | — | Offensive Security |
-| 🏛️ | **AICTE Virtual Cybersecurity Internship** | Govt. of India 
-| 🎯 | **TryHackMe — Top 3% Globally** | TryHackMe 
+| 🏛️ | **AICTE Virtual Cybersecurity Internship** | Govt. of India | Applied Cybersecurity |
 
 </div>
 
@@ -164,13 +163,16 @@ End-to-end containerized web application deployment on Amazon Elastic Kubernetes
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=goliakash&theme=tokyonight&hide_border=true" />
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=goliakash&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
+
+---
+
 
 ---
 
