@@ -55,7 +55,6 @@ currently_learning:
   - "MLOps & AI Security Systems"
   - "Go for DevOps tooling"
 
----
 
 ## 💼 Experience
 
