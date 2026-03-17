@@ -42,8 +42,7 @@ education:
 experience:
   - title: "Cloud Engineer Intern"
     company: "CoreXtech IT Services Pvt. Ltd."
-    period: "Jul 2025 – Sep 2025"
-    stack: ["AWS", "Azure", "Terraform", "Jenkins", "GitHub Actions"]
+    period: "Jul 2025 – Sep 2025
  
 focus_areas:
   - "☁️  Cloud Infrastructure & DevSecOps"
