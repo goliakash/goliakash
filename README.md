@@ -8,14 +8,13 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/goli-akash-02382b245)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](www.goliakash.me)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goliakash710@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23Top_3%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=a78bfa&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=goliakash&color=a78bfa&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -130,6 +129,11 @@ End-to-end containerized web application deployment on Amazon Elastic Kubernetes
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🐍 Backend Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
