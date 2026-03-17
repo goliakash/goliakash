@@ -1,15 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Goli%20Akash&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Engineer%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20DevSecOps&descAlignY=58&descSize=16&descColor=a78bfa"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Goli%20Akash&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Engineer%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20DevSecOps&descAlignY=58&descSize=16&descColor=a78bfa" />
 
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Secure+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;DevSecOps+%7C+AWS+%7C+Kubernetes+%7C+Terraform)](https://git.io/typing-svg)
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goli-akash-02382b245)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://goliakash.me)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goliakash710@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23Top_3%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com)
 
 <br/>
 
@@ -21,8 +23,6 @@
 
 ## 🧬 Who Am I?
 
-> *"Security is not a product — it's a process. And I build that process in the cloud."*
-
 ```yaml
 # goli_akash.yaml
 personal:
@@ -32,29 +32,42 @@ personal:
   email: "goliakash710@gmail.com"
   portfolio: "https://goliakash.me"
   linkedin: "https://linkedin.com/in/goli-akash-02382b245"
- 
+
 education:
   degree: "B.Tech in Computer Science & Engineering"
   college: "SR Engineering College"
   duration: "2023 – 2027"
   specialization: "Cybersecurity & Cloud Infrastructure"
- 
+
 experience:
   - title: "Cloud Engineer Intern"
     company: "CoreXtech IT Services Pvt. Ltd."
-    period: "Jul 2025 – Sep 2025
- 
+    period: "Jul 2025 – Sep 2025"
+    stack: ["AWS", "Azure", "Terraform", "Jenkins", "GitHub Actions"]
+
 focus_areas:
   - "☁️  Cloud Infrastructure & DevSecOps"
   - "🔐  Penetration Testing & Vulnerability Research"
   - "🐍  Backend Development with Python & FastAPI"
   - "🤖  AI-Powered Threat Detection (in progress)"
   - "🐳  Kubernetes & Container Security"
- 
+
 currently_learning:
+  - "AWS Solutions Architect (SAA-C03)"
+  - "Certified Kubernetes Administrator (CKA)"
   - "MLOps & AI Security Systems"
   - "Go for DevOps tooling"
 
+achievements:
+  tryhackme_rank: "Top 3% globally 🏆 (3M+ users)"
+  challenges_completed: "100+"
+  internships: 1
+  certifications: ["CCNA", "EHE", "AICTE Cybersecurity"]
+
+motto: "Security is not a product — it's a process. And I build that process in the cloud. ☁️🔐"
+```
+
+---
 
 ## 💼 Experience
 
@@ -119,6 +132,37 @@ End-to-end containerized web application deployment on Amazon Elastic Kubernetes
 
 </details>
 
+<br/>
+
+<details open>
+<summary><b>🐍 Secure REST API with FastAPI</b> &nbsp;<code>Python · FastAPI · JWT · PostgreSQL · Docker</code></summary>
+
+<br/>
+
+A production-ready, security-hardened backend API built with FastAPI and Python best practices.
+
+| Feature | Details |
+|--------|---------|
+| 🔑 Auth | **JWT-based authentication** with token refresh flow |
+| 🗄️ Database | **PostgreSQL** with async SQLAlchemy ORM |
+| 🛡️ Security | Input validation via **Pydantic**, SQL injection protection |
+| 📦 Deploy | Containerized with **Docker**, auto-docs via Swagger UI |
+| 🚀 Performance | Async endpoints for high-throughput request handling |
+
+```python
+@app.post("/api/v1/scan", response_model=ScanResult)
+async def trigger_scan(
+    target: ScanRequest,
+    current_user: User = Depends(get_current_user)
+):
+    """Authenticated endpoint to trigger a vulnerability scan."""
+    result = await scanner.run(target.ip, target.ports)
+    return ScanResult(findings=result.cves, risk_score=result.score)
+```
+
+</details>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -126,9 +170,10 @@ End-to-end containerized web application deployment on Amazon Elastic Kubernetes
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🐳 DevOps & Containers
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -148,6 +193,7 @@ End-to-end containerized web application deployment on Amazon Elastic Kubernetes
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ### 💻 Languages & OS
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -191,9 +237,6 @@ End-to-end containerized web application deployment on Amazon Elastic Kubernetes
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=goliakash&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
-
----
-
 
 ---
 
