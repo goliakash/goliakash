@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Secure+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;DevSecOps+%7C+AWS+%7C+Kubernetes+%7C+Terraform;Top+3%25+on+TryHackMe+%F0%9F%94%90;Always+learning%2C+always+hacking+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Secure+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;DevSecOps+%7C+AWS+%7C+Kubernetes+%7C+Terraform;%F0%9F%94%90;Always+learning%2C+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
