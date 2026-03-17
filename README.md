@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Goli%20Akash&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Engineer%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20DevSecOps&descAlignY=58&descSize=16&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Goli%20Akash&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Engineer%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20DevSecOps&descAlignY=58&descSize=16&descColor=a78bfa"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Secure+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;DevSecOps+%7C+AWS+%7C+Kubernetes+%7C+Terraform;Always+learning%2C+)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Secure+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;DevSecOps+%7C+AWS+%7C+Kubernetes+%7C+Terraform)](https://git.io/typing-svg)
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goli-akash-02382b245)
@@ -24,14 +23,38 @@
 
 > *"Security is not a product — it's a process. And I build that process in the cloud."*
 
-I'm a **B.Tech Computer Science student** (2023–2027) at SR Engineering College, specializing in the intersection of **cloud infrastructure**, **cybersecurity**, and **DevSecOps automation**. I've interned as a Cloud Engineer, built real-world security tools, and consistently challenge myself on platforms like TryHackMe — where I rank in the **Top 3% globally** among 3M+ users.
-
-My work lives at the crossroads of **building** and **breaking** — deploying production-grade cloud systems while understanding how adversaries think.
-
-- 🎯 Target: **AWS/Cloud Security Engineer · DevSecOps · AI for Threat Detection**
-- 🌱 Currently studying: **AWS SAA-C03 · MLOps · Kubernetes Security**
-- 🏠 Based in: **Telangana, India**
-- 📬 Reach me at: **goliakash710@gmail.com**
+```yaml
+# goli_akash.yaml
+personal:
+  name: "Goli Akash"
+  role: "Cloud Engineer & Security Researcher"
+  location: "Telangana, India 🇮🇳"
+  email: "goliakash710@gmail.com"
+  portfolio: "https://goliakash.me"
+  linkedin: "https://linkedin.com/in/goli-akash-02382b245"
+ 
+education:
+  degree: "B.Tech in Computer Science & Engineering"
+  college: "SR Engineering College"
+  duration: "2023 – 2027"
+  specialization: "Cybersecurity & Cloud Infrastructure"
+ 
+experience:
+  - title: "Cloud Engineer Intern"
+    company: "CoreXtech IT Services Pvt. Ltd."
+    period: "Jul 2025 – Sep 2025"
+    stack: ["AWS", "Azure", "Terraform", "Jenkins", "GitHub Actions"]
+ 
+focus_areas:
+  - "☁️  Cloud Infrastructure & DevSecOps"
+  - "🔐  Penetration Testing & Vulnerability Research"
+  - "🐍  Backend Development with Python & FastAPI"
+  - "🤖  AI-Powered Threat Detection (in progress)"
+  - "🐳  Kubernetes & Container Security"
+ 
+currently_learning:
+  - "MLOps & AI Security Systems"
+  - "Go for DevOps tooling"
 
 ---
 
