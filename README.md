@@ -45,7 +45,6 @@ experience:
 
 focus_areas:
   - "☁️  Cloud Infrastructure & DevSecOps"
-  - "🔐  Penetration Testing & Vulnerability Research"
   - "🐍  Backend Development with Python & FastAPI"
   - "🤖  AI-Powered Threat Detection (in progress)"
   - "🐳  Kubernetes & Container Security"
